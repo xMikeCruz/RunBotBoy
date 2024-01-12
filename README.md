@@ -2,7 +2,7 @@
 
 Build of my game "RunBotBoy" which is still in development.
 
-You can downloud it here: [https://mike-cruz.itch.io/thelastzaxxon](https://mike-cruz.itch.io/runbotboy)
+You can downloud it here: https://mike-cruz.itch.io/runbotboy
 
 ![RobotBoy 11_01_2024 3_57_10](https://github.com/xMikeCruz/RunBotBoy/assets/129050131/c92ed1e6-6a8c-4033-ae65-c9458c9e9562)
 ![RobotBoy 11_01_2024 3_58_18](https://github.com/xMikeCruz/RunBotBoy/assets/129050131/85ebf3f7-da7a-4caf-a571-2132e0cbf3be)
