@@ -2,7 +2,7 @@
 
 Build of my game "RunBotBoy" which is still in development.
 
-You can downloud it here: https://mike-cruz.itch.io/runbotboy
+You can download it here: https://mike-cruz.itch.io/runbotboy
 
 Gameplay: https://youtu.be/8J5MVwC0EvM
 
